@@ -1,6 +1,6 @@
 Name:		texlive-keyparse
 Version:	60277
-Release:	1
+Release:	2
 Summary:	Key based parser
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/keyparse
