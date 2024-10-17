@@ -3,7 +3,7 @@ Version:	60277
 Release:	2
 Summary:	Key based parser
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/keyparse
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/keyparse
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/keyparse.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/keyparse.doc.r%{version}.tar.xz
